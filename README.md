@@ -15,7 +15,7 @@ The solvers are introduced in 'Traveling Salesman Problem with Neighborhoods on 
 ```
 
 ## TSPNS examples
-![TSPNS example1](sphere_rect_cap_reg_nol_50x1.pdf)
+![TSPNS example](sphere_rect_cap_reg_nol_50x1.png)
 
 ## How to run provided solvers
 The provided codes are in C++11 and utilize CRL (https://github.com/comrob/crl) and GLKH solver (http://webhotel4.ruc.dk/~keld/research/GLKH/)
